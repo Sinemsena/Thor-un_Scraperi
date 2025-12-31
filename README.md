@@ -30,6 +30,6 @@ Program çalıştığında aşağıdaki klasörleri otomatik oluşturur:
 
 /logs: Tarama raporu ve zaman damgaları.
 
-/output/screenshots: Sitelerin ekran görüntüleri.
+/screenshots: Sitelerin ekran görüntüleri.
 
 /scraper/html: Sitelerin kaynak kodları.
