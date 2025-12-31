@@ -1,0 +1,13 @@
+# Çıktı Klasörleri (Bunları yükleme)
+logs/
+output/
+scraper/
+screenshots/
+
+# Sistem Dosyaları
+*.exe
+*.log
+.DS_Store
+
+# Go Dosyaları
+go.work
